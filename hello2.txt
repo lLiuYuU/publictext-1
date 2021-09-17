@@ -1,7 +1,6 @@
 a
 b
-y
 c
-d
+x
 y
 z
